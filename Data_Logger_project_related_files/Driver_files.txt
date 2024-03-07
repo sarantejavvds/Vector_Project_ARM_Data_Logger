@@ -1,1 +1,1 @@
-This folder contains Header files and Function definitions and main program files of drivers used for the Interfacing by using LPC2148 Microcontroller and Keil4 Software to complete the Data Logger Project.
+This folder contains Header files and Function definitions and main program files of drivers used for the Interfacing by using LPC2148 Microcontroller and Keil4 Software followed by Modular Programming to complete the Data Logger Project.
