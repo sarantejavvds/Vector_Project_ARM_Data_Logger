@@ -1,0 +1,1 @@
+The Data that was collected by the Sensors and External devices inputs will be sent from Microcontroller to excel sheet in the Computer system through UART Serial Port Communication with Linux Programming.
