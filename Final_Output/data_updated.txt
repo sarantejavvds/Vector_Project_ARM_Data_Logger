@@ -1,0 +1,2 @@
+The "data.xls" file contains the output results that were taken from UART Serial Port Communication between the Microcontroller interfaced with sensors, other interfaces and the Computer.
+And for every 3 mins the Data was updated to the PC through UART communication. 
